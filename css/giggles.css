@@ -1,0 +1,44 @@
+body{
+	margin:0;
+	background-color:black;
+}
+
+header{
+	background-color:#FFC300;
+	text-align:center;
+	font-family:Georgia, serif;
+	font-weight:900;
+}
+
+header h1{
+	color: Black;
+	font-size:80px;
+}
+header img{
+	border-radius:150px
+}
+header h2{
+	font-style:italic;
+}
+main{
+	background-color:#FFC300; 
+	text-align:center;
+}
+main h2{
+	font-family:Georgia, serif;
+	font-size:60px; 
+}
+main h3{
+	font-size:35px;
+	text-align:left;
+}
+main ol{
+	font-size:30px;
+	text-align:left;
+}
+main img{
+	border-radius:150px
+}
+main p{
+	font-family:Georgia, serif;
+	font-size:20px; 
